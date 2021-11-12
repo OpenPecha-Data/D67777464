@@ -1,0 +1,85 @@
+id: 005c520c53144c8aae31e0e8d19ebb2c
+annotation_type: Peydurma
+revision: '00001'
+annotations:
+  65e1e1214db84f14adec02a352921653:
+    span:
+      start: 66
+      end: 66
+  02b9f6d16c754ef288c8cc26763cfcfb:
+    span:
+      start: 614
+      end: 614
+  5613e4def2734d79bed7ae4089ef9ebc:
+    span:
+      start: 688
+      end: 688
+  3f6c08ca8dff4e41acbb149221e02d71:
+    span:
+      start: 747
+      end: 747
+  9dc3858b5dcf460eb506fcf961e66b13:
+    span:
+      start: 802
+      end: 802
+  cdd6810462814e54a8c5cae73afd4902:
+    span:
+      start: 862
+      end: 862
+  5a04b024a66646a4a1f6a3b8f1690c8a:
+    span:
+      start: 930
+      end: 930
+  f7eb41849333472abbc886cbb8667902:
+    span:
+      start: 962
+      end: 962
+  95bd3e799a604f2a8afb8f66dbba4927:
+    span:
+      start: 1090
+      end: 1090
+  ad244324751f40d987e0a4b60d4f5a48:
+    span:
+      start: 1120
+      end: 1120
+  f1ae44d26f4a49c18b984a2dd33905c1:
+    span:
+      start: 1168
+      end: 1168
+  473acb99abc7436c934dd47bca53a224:
+    span:
+      start: 1833
+      end: 1833
+  4bfb5b5471c24232ba3135317110daac:
+    span:
+      start: 1848
+      end: 1848
+  54e5e72080a242089934eaed0607757c:
+    span:
+      start: 2228
+      end: 2228
+  fb13d851496647a48a60d40f8cf3c932:
+    span:
+      start: 2298
+      end: 2298
+  8a28388dd1fd43478a7e41a5cdc03515:
+    span:
+      start: 2380
+      end: 2380
+local_ids:
+  65e1e1214db84f14adec02a352921653: 200000
+  02b9f6d16c754ef288c8cc26763cfcfb: 200001
+  5613e4def2734d79bed7ae4089ef9ebc: 200002
+  3f6c08ca8dff4e41acbb149221e02d71: 200003
+  9dc3858b5dcf460eb506fcf961e66b13: 200004
+  cdd6810462814e54a8c5cae73afd4902: 200005
+  5a04b024a66646a4a1f6a3b8f1690c8a: 200006
+  f7eb41849333472abbc886cbb8667902: 200007
+  95bd3e799a604f2a8afb8f66dbba4927: 200008
+  ad244324751f40d987e0a4b60d4f5a48: 200009
+  f1ae44d26f4a49c18b984a2dd33905c1: 200010
+  473acb99abc7436c934dd47bca53a224: 200011
+  4bfb5b5471c24232ba3135317110daac: 200012
+  54e5e72080a242089934eaed0607757c: 200013
+  fb13d851496647a48a60d40f8cf3c932: 200014
+  8a28388dd1fd43478a7e41a5cdc03515: 200015
